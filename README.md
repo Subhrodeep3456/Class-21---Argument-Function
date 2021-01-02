@@ -1,1 +1,2 @@
-# Class-21---Argument-Function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
